@@ -1,0 +1,89 @@
+<div id="province" class="form-group" >
+   <label class="control-label" for="province_id">Province</label>
+     <select id="province_id" class="form-control" name="province_id">
+        <option value="18" selected>Cagayan</option>
+                    <option value="1">Abra</option>
+                    <option value="2">Agusan del Norte</option>
+                    <option value="3">Agusan del Sur</option>
+                    <option value="4">Aklan</option>
+                    <option value="5">Albay</option>
+                    <option value="6">Antique</option>
+                    <option value="7">Apayao</option>
+                    <option value="8">Aurora</option>
+                    <option value="9">Basilan</option>
+                    <option value="10">Bataan</option>
+                    <option value="11">Batanes</option>
+                    <option value="12">Batangas</option>
+                    <option value="13">Benguet</option>
+                    <option value="14">Biliran</option>
+                    <option value="15">Bohol</option>
+                    <option value="16">Bukidnon</option>
+                    <option value="17">Bulacan</option>
+                    <option value="18">Cagayan</option>
+                    <option value="19">Camarines Norte</option>
+                    <option value="20">Camarines Sur</option>
+                    <option value="21">Camiguin</option>
+                    <option value="22">Capiz</option>
+                    <option value="23">Catanduanes</option>
+                    <option value="24">Cavite</option>
+                    <option value="25">Cebu</option>
+                    <option value="26">Compostela Valley</option>
+                    <option value="27">Cotabato</option>
+                    <option value="28">Davao del Norte</option>
+                    <option value="29">Davao del Sur</option>
+                    <option value="30">Davao Oriental</option>
+                    <option value="31">Eastern Samar</option>
+                    <option value="32">Guimaras</option>
+                    <option value="33">Ifugao</option>
+                    <option value="34">Ilocos Norte</option>
+                    <option value="35">Ilocos Sur</option>
+                    <option value="36">Iloilo</option>
+                    <option value="37">Isabela</option>
+                    <option value="38">Kalinga</option>
+                    <option value="39">La Union</option>
+                    <option value="40">Laguna</option>
+                    <option value="41">Lanao del Norte</option>
+                    <option value="42">Lanao del Sur</option>
+                    <option value="43">Leyte</option>
+                    <option value="44">Maguindanao</option>
+                    <option value="45">Marinduque</option>
+                    <option value="46">Masbate</option>
+                    <option value="47">Metro Manila</option>
+                    <option value="48">Misamis Occidental</option>
+                    <option value="49">Misamis Oriental</option>
+                    <option value="50">Mountain Province</option>
+                    <option value="51">Negros Occidental</option>
+                    <option value="52">Negros Oriental</option>
+                    <option value="53">Northern Samar</option>
+                    <option value="54">Nueva Ecija</option>
+                    <option value="55">Nueva Vizcaya</option>
+                    <option value="56">Occidental Mindoro</option>
+                    <option value="57">Oriental Mindoro</option>
+                    <option value="58">Palawan</option>
+                    <option value="59">Pampanga</option>
+                    <option value="60">Pangasinan</option>
+                    <option value="61">Quezon</option>
+                    <option value="62">Quirino</option>
+                    <option value="63">Rizal</option>
+                    <option value="64">Romblon</option>
+                    <option value="65">Samar</option>
+                    <option value="66">Sarangani</option>
+                    <option value="67">Siquijor</option>
+                    <option value="68">Sorsogon</option>
+                    <option value="69">South Cotabato</option>
+                    <option value="70">Southern Leyte</option>
+                    <option value="71">Sultan Kudarat</option>
+                    <option value="72">Sulu</option>
+                    <option value="73">Surigao del Norte</option>
+                    <option value="74">Surigao del Sur</option>
+                    <option value="75">Tarlac</option>
+                    <option value="76">Tawi-Tawi</option>
+                    <option value="77">Zambales</option>
+                    <option value="78">Zamboanga del Norte</option>
+                    <option value="79">Zamboanga del Sur</option>
+                    <option value="80">Zamboanga Sibugay</option>
+             </select>
+
+</div>
+
+
